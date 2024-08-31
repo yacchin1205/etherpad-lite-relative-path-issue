@@ -20,4 +20,4 @@ foobar:681
 
 ## Expected behavior
 
-The etherpad-lite instance should be load the padbootstrap-XXXXXXXX.min.js file from the correct path like `http://localhost:9002/sub/path/etherpad/padbootstrap-AWbfvdxaiSQ.min.js`.
+The etherpad-lite page should load the padbootstrap-XXXXXXXX.min.js file from the correct path like `http://localhost:9002/sub/path/etherpad/padbootstrap-AWbfvdxaiSQ.min.js`.
