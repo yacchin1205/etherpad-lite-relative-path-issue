@@ -1,0 +1,3 @@
+services:
+  etherpad:
+    image: yacchin1205/etherpad-lite:fix-script-relative-path
