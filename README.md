@@ -1,6 +1,6 @@
 # etherpad-lite-relative-path-issue
 
-This repository is a demonstration of an issue with etherpad-lite's relative path handling.
+This repository is a demonstration of the issue https://github.com/ether/etherpad-lite/issues/6620 with etherpad-lite's relative path handling.
 
 ## Pre-requisites
 
